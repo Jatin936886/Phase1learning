@@ -1,6 +1,5 @@
-package Assisted_project;
-import java.io.FileReader;
-import java.io.IOException;
+package Practice_Project;
+import java.io.*;
 public class FileHandling1 {
 	 public static void main(String[] args){
 		 //Reading an Existing file
@@ -28,3 +27,4 @@ public class FileHandling1 {
 		 }
 		 }
 		}
+

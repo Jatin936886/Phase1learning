@@ -1,6 +1,5 @@
-package Assisted_project;
-import java.io.FileWriter;
-import java.io.IOException;
+package Practice_Project;
+import java.io.*;
 public class FileHandling2 {
  public static void main(String[] args){
  // Append text to Existing File.

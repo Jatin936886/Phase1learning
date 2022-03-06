@@ -1,13 +1,11 @@
-package Assisted_project;
-import java.io.FileWriter;
-import java.io.IOException;
+package Practice_Project;
+import java.io.*;
 public class FileHandling {
  public static void main(String[] args){
- //Writing in the file
  
  try
  {
-FileWriter f = new FileWriter("C:\\Users\\jatin\\Assisted practice project\\Harshit.txt");
+FileWriter f = new FileWriter("C:\\Users\\jatin\\Practice Project\\jj.txt");
  try
  {
  f.write("Jatin is the employee of multi national company ..!!");
